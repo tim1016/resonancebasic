@@ -1,18 +1,19 @@
 .btn{
-   background: $myBlue;
-   padding: 0.5rem 1rem;
-   text-decoration: none;
-   color: white;
-   display: inline-block;
-   box-shadow: 2px 2px 0 rgba(0,0,0,0.8);
-   
-   &--color2{
-      background-color: $myRed;
-   }
-   
-   &--large{
+  background: $myBlue;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  box-shadow: 2px 2px 0 rgba(0,0,0,0.8);
+
+  &--color2{
+    background-color: $myRed;
+  }
+
+  &--large{
+    padding: 1.1rem 1.9rem;
+    @mixin atSmall{
       font-size: 1.2rem;
-      padding: 0.75rem 1.2rem;
-   }
-   
+    }
+  }
 }
