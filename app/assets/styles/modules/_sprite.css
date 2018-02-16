@@ -1,0 +1,120 @@
+/* Do not edit modules/_sprite directly as it is generated automatically by Gulp.
+Instead edit gulp/templates/sprite */
+
+    .icon {
+      background-image: url('/assets/images/sprites/sprite-891d1a2d.svg');
+    }
+
+  .icon--alarmclock {
+    width: 50px;
+    height: 50px;
+    background-position: 96.7741935483871% 71.42857142857143%;
+  }
+
+  .icon--badtenant {
+    width: 50px;
+    height: 50px;
+    background-position: 16.129032258064516% 71.42857142857143%;
+  }
+
+  .icon--burden {
+    width: 50px;
+    height: 50px;
+    background-position: 16.129032258064516% 42.857142857142854%;
+  }
+
+  .icon--closing {
+    width: 50px;
+    height: 50px;
+    background-position: 32.25806451612903% 42.857142857142854%;
+  }
+
+  .icon--codeviolations {
+    width: 50px;
+    height: 50px;
+    background-position: 48.38709677419355% 42.857142857142854%;
+  }
+
+  .icon--doublepayments {
+    width: 50px;
+    height: 50px;
+    background-position: 64.51612903225806% 42.857142857142854%;
+  }
+
+  .icon--for-rent {
+    width: 50px;
+    height: 50px;
+    background-position: 80.64516129032258% 42.857142857142854%;
+  }
+
+  .icon--givemoney {
+    width: 50px;
+    height: 50px;
+    background-position: 96.7741935483871% 42.857142857142854%;
+  }
+
+  .icon--hammer {
+    width: 50px;
+    height: 50px;
+    background-position: 0 71.42857142857143%;
+  }
+
+  .icon--housesale {
+    width: 50px;
+    height: 50px;
+    background-position: 0 42.857142857142854%;
+  }
+
+  .icon--listed {
+    width: 50px;
+    height: 50px;
+    background-position: 32.25806451612903% 71.42857142857143%;
+  }
+
+  .icon--moving {
+    width: 50px;
+    height: 50px;
+    background-position: 48.38709677419355% 71.42857142857143%;
+  }
+
+  .icon--phonecall {
+    width: 50px;
+    height: 50px;
+    background-position: 64.51612903225806% 71.42857142857143%;
+  }
+
+  .icon--piggy-bank {
+    width: 50px;
+    height: 50px;
+    background-position: 80.64516129032258% 71.42857142857143%;
+  }
+
+  .icon--resonancetransparent {
+    width: 360px;
+    height: 75px;
+    background-position: 0 0;
+  }
+
+  .icon--tax {
+    width: 50px;
+    height: 50px;
+    background-position: 0 100%;
+  }
+
+  .icon--team {
+    width: 50px;
+    height: 50px;
+    background-position: 16.129032258064516% 100%;
+  }
+
+  .icon--tools {
+    width: 50px;
+    height: 50px;
+    background-position: 32.25806451612903% 100%;
+  }
+
+  .icon--unwanted {
+    width: 50px;
+    height: 50px;
+    background-position: 48.38709677419355% 100%;
+  }
