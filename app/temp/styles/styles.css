@@ -512,7 +512,7 @@ a{
     font-weight: 700;
   }
 .section-title{
-  font-size: 2.555rem;
+  font-size: 2.55rem;
   font-weight: 300;
   text-align: center;
 }
@@ -540,7 +540,7 @@ a{
    }
 .feature-item{
   position: relative;
-  padding-bottom: 2.5rem;
+  padding-bottom: 0.5rem;
   
 
 }
@@ -565,7 +565,7 @@ a{
   }
    }
 .feature-item__title{
-    font-size: 1.6rem;
+    font-size: 1.25rem;
     font-weight: 300;
     margin-bottom: .7rem;
     margin-top: 0.7em;
@@ -574,7 +574,7 @@ a{
 @media(min-width:530px){
 .feature-item__title{
         text-align: left;
-        font-size: 1.875rem;
+        font-size: 1.5rem;
         font-weight: 300;
         margin-bottom: 1rem
   }
@@ -582,101 +582,116 @@ a{
 /* Do not edit modules/_sprite directly as it is generated automatically by Gulp.
 Instead edit gulp/templates/sprite */
 .icon {
-      background-image: url('/assets/images/sprites/sprite-891d1a2d.svg');
+      background-image: url('/assets/images/sprites/sprite-9f690566.svg');
     }
 .icon--alarmclock {
     width: 50px;
     height: 50px;
-    background-position: 96.7741935483871% 71.42857142857143%;
+    background-position: 14.970059880239521% 100%;
   }
 .icon--badtenant {
     width: 50px;
     height: 50px;
-    background-position: 16.129032258064516% 71.42857142857143%;
+    background-position: 44.91017964071856% 72.22222222222223%;
   }
 .icon--burden {
     width: 50px;
     height: 50px;
-    background-position: 16.129032258064516% 42.857142857142854%;
+    background-position: 14.970059880239521% 44.44444444444444%;
+  }
+.icon--business-down-bars-graphic {
+    width: 50px;
+    height: 50px;
+    background-position: 29.940119760479043% 44.44444444444444%;
   }
 .icon--closing {
     width: 50px;
     height: 50px;
-    background-position: 32.25806451612903% 42.857142857142854%;
+    background-position: 44.91017964071856% 44.44444444444444%;
   }
 .icon--codeviolations {
     width: 50px;
     height: 50px;
-    background-position: 48.38709677419355% 42.857142857142854%;
+    background-position: 59.880239520958085% 44.44444444444444%;
   }
 .icon--doublepayments {
     width: 50px;
     height: 50px;
-    background-position: 64.51612903225806% 42.857142857142854%;
+    background-position: 74.8502994011976% 44.44444444444444%;
   }
 .icon--for-rent {
     width: 50px;
     height: 50px;
-    background-position: 80.64516129032258% 42.857142857142854%;
+    background-position: 89.82035928143712% 44.44444444444444%;
   }
 .icon--givemoney {
     width: 50px;
     height: 50px;
-    background-position: 96.7741935483871% 42.857142857142854%;
+    background-position: 0 72.22222222222223%;
+  }
+.icon--goingdown {
+    width: 50px;
+    height: 50px;
+    background-position: 14.970059880239521% 72.22222222222223%;
   }
 .icon--hammer {
     width: 50px;
     height: 50px;
-    background-position: 0 71.42857142857143%;
+    background-position: 29.940119760479043% 72.22222222222223%;
   }
 .icon--housesale {
     width: 50px;
     height: 50px;
-    background-position: 0 42.857142857142854%;
+    background-position: 0 44.44444444444444%;
   }
 .icon--listed {
     width: 50px;
     height: 50px;
-    background-position: 32.25806451612903% 71.42857142857143%;
+    background-position: 59.880239520958085% 72.22222222222223%;
   }
 .icon--moving {
     width: 50px;
     height: 50px;
-    background-position: 48.38709677419355% 71.42857142857143%;
+    background-position: 74.8502994011976% 72.22222222222223%;
   }
 .icon--phonecall {
     width: 50px;
     height: 50px;
-    background-position: 64.51612903225806% 71.42857142857143%;
+    background-position: 89.82035928143712% 72.22222222222223%;
   }
 .icon--piggy-bank {
     width: 50px;
     height: 50px;
-    background-position: 80.64516129032258% 71.42857142857143%;
+    background-position: 0 100%;
   }
 .icon--resonancetransparent {
-    width: 360px;
-    height: 75px;
+    width: 384px;
+    height: 80px;
     background-position: 0 0;
   }
 .icon--tax {
     width: 50px;
     height: 50px;
-    background-position: 0 100%;
+    background-position: 29.940119760479043% 100%;
   }
 .icon--team {
     width: 50px;
     height: 50px;
-    background-position: 16.129032258064516% 100%;
+    background-position: 44.91017964071856% 100%;
+  }
+.icon--testimonial {
+    width: 50px;
+    height: 50px;
+    background-position: 59.880239520958085% 100%;
   }
 .icon--tools {
     width: 50px;
     height: 50px;
-    background-position: 32.25806451612903% 100%;
+    background-position: 74.8502994011976% 100%;
   }
 .icon--unwanted {
     width: 50px;
     height: 50px;
-    background-position: 48.38709677419355% 100%;
+    background-position: 89.82035928143712% 100%;
   }
 
