@@ -25,4 +25,12 @@
       margin-bottom: 0;
     }
   }
+  
+  &__icon-blue{
+    background-color: myBlue;
+  }
+  
+  &--blue{
+    color: $myBlue;
+  }
 }
