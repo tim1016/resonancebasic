@@ -831,4 +831,21 @@ Instead edit gulp/templates/sprite */
     font-weight: 400; 
     margin: 0.25rem 0 1rem 0;
   }
+.site-footer{
+  background-color: #2599b9;
+  color: white;
+  text-align: center;
+}
+.site-footer__text{
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 300;
+  }
+@media(min-width:800px){
+.site-footer__text{
+      display: inline-block;
+      margin-bottom: 0;
+      margin-right: 1rem
+  }
+   } 
 
