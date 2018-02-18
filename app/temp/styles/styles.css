@@ -285,7 +285,7 @@ img{
   box-sizing: border-box;
 }
 a{
-  color: #b63d39;
+  color: #b639;
 }
 .large-hero{
   position: relative;
@@ -303,7 +303,7 @@ a{
     text-align: center;
     -webkit-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
-    background-color: rgba(0,0,0,0.7);
+/*    background-color: rgba(0,0,0,0.7); */
   }
 .large-hero__title{
     font-weight: 300;
@@ -355,7 +355,7 @@ a{
   box-shadow: 2px 2px 0 rgba(0,0,0,0.8);
 }
 .btn--color2{
-    background-color: #b63d39;
+    background-color: #b639;
   }
 .btn--large{
     padding: 1.1rem 1.9rem;
@@ -467,7 +467,7 @@ a{
     text-align: center;
   }
 .headline--color2{
-    color: #b63d39;
+    color: #b639;
   }
 .headline--small{
     font-size: 1.2rem;
@@ -681,117 +681,122 @@ a{
 /* Do not edit modules/_sprite directly as it is generated automatically by Gulp.
 Instead edit gulp/templates/sprite */
 .icon {
-      background-image: url('/assets/images/sprites/sprite-9f690566.svg');
+      background-image: url('/assets/images/sprites/sprite-0deeadc4.svg');
     }
 .icon--alarmclock {
     width: 50px;
     height: 50px;
-    background-position: 14.970059880239521% 100%;
+    background-position: 100% 82.45614035087719%;
   }
 .icon--badtenant {
     width: 50px;
     height: 50px;
-    background-position: 44.91017964071856% 72.22222222222223%;
+    background-position: 77.77777777777777% 82.45614035087719%;
   }
 .icon--burden {
     width: 50px;
     height: 50px;
-    background-position: 14.970059880239521% 44.44444444444444%;
+    background-position: 33.333333333333336% 100%;
   }
 .icon--business-down-bars-graphic {
     width: 50px;
     height: 50px;
-    background-position: 29.940119760479043% 44.44444444444444%;
+    background-position: 91.11111111111111% 56.14035087719298%;
   }
 .icon--closing {
     width: 50px;
     height: 50px;
-    background-position: 44.91017964071856% 44.44444444444444%;
+    background-position: 0 82.45614035087719%;
   }
 .icon--codeviolations {
     width: 50px;
     height: 50px;
-    background-position: 59.880239520958085% 44.44444444444444%;
+    background-position: 11.11111111111111% 82.45614035087719%;
   }
 .icon--doublepayments {
     width: 50px;
     height: 50px;
-    background-position: 74.8502994011976% 44.44444444444444%;
+    background-position: 22.22222222222222% 82.45614035087719%;
   }
 .icon--for-rent {
     width: 50px;
     height: 50px;
-    background-position: 89.82035928143712% 44.44444444444444%;
+    background-position: 33.333333333333336% 82.45614035087719%;
   }
 .icon--givemoney {
     width: 50px;
     height: 50px;
-    background-position: 0 72.22222222222223%;
+    background-position: 44.44444444444444% 82.45614035087719%;
   }
 .icon--goingdown {
     width: 50px;
     height: 50px;
-    background-position: 14.970059880239521% 72.22222222222223%;
+    background-position: 55.55555555555556% 82.45614035087719%;
   }
 .icon--hammer {
     width: 50px;
     height: 50px;
-    background-position: 29.940119760479043% 72.22222222222223%;
+    background-position: 66.66666666666667% 82.45614035087719%;
   }
 .icon--housesale {
     width: 50px;
     height: 50px;
-    background-position: 0 44.44444444444444%;
+    background-position: 80% 56.14035087719298%;
   }
 .icon--listed {
     width: 50px;
     height: 50px;
-    background-position: 59.880239520958085% 72.22222222222223%;
+    background-position: 88.88888888888889% 82.45614035087719%;
+  }
+.icon--logotrial {
+    width: 500px;
+    height: 160px;
+    background-position: 0 0;
   }
 .icon--moving {
     width: 50px;
     height: 50px;
-    background-position: 74.8502994011976% 72.22222222222223%;
+    background-position: 0 100%;
   }
 .icon--phonecall {
     width: 50px;
     height: 50px;
-    background-position: 89.82035928143712% 72.22222222222223%;
+    background-position: 11.11111111111111% 100%;
   }
 .icon--piggy-bank {
     width: 50px;
     height: 50px;
-    background-position: 0 100%;
+    background-position: 22.22222222222222% 100%;
   }
-.icon--resonancetransparent {
-    width: 384px;
-    height: 80px;
-    background-position: 0 0;
+.icon--resonance {
+    width: 360px;
+    height: 75px;
+    background-position: 0 61.53846153846154%;
   }
 .icon--tax {
     width: 50px;
     height: 50px;
-    background-position: 29.940119760479043% 100%;
+    background-position: 44.44444444444444% 100%;
   }
 .icon--team {
     width: 50px;
     height: 50px;
-    background-position: 44.91017964071856% 100%;
+    background-position: 55.55555555555556% 100%;
   }
 .icon--testimonial {
     width: 50px;
     height: 50px;
-    background-position: 59.880239520958085% 100%;
+    background-position: 66.66666666666667% 100%;
   }
 .icon--tools {
     width: 50px;
     height: 50px;
-    background-position: 74.8502994011976% 100%;
+    background-position: 77.77777777777777% 100%;
   }
 .icon--unwanted {
     width: 50px;
     height: 50px;
-    background-position: 89.82035928143712% 100%;
+    background-position: 88.88888888888889% 100%;
   }
 .testimonial{
   background-color: rgba(255,255,255,0.8);
@@ -825,7 +830,7 @@ Instead edit gulp/templates/sprite */
     margin: 0;
   }
 .testimonial__subtitle{
-    color: #b63d39;
+    color: #b639;
     text-align: center;
     font-size: 0.9125rem;
     font-weight: 400; 
@@ -847,5 +852,197 @@ Instead edit gulp/templates/sprite */
       margin-bottom: 0;
       margin-right: 1rem
   }
+   }
+.site-header{
+  position: absolute;
+  width: 100%;
+  z-index: 2;
+  padding: 10px 0;
+  transition: background-color 0.3s ease-out;
+}
+@media(min-width:800px){
+.site-header{
+    background: rgba(255,255,255, 0.8)
+}
+   }
+.site-header--is-expanded{
+    background-color: rgba(255,255,255, 0.8);
+  }
+@media(min-width:800px){
+.site-header__btn-container{
+      float: right
+    }
+   }
+.site-header__logo{
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%) scale(0.6);
+            transform: translateX(-50%) scale(0.6);
+    -webkit-transform-origin: 50% 0%;
+            transform-origin: 50% 0%;
+  }
+@media(min-width:800px){
+.site-header__logo{
+      left: auto;
+      top: 0;
+      -webkit-transform: translateX(0%) scaleY(1);
+              transform: translateX(0%) scaleY(1);
+      background-color: rgba(37,153,185,0.5);
+      padding: 0px 0px
+  }
+   }
+.site-header__logo__graphic{
+      text-indent: -9999px;       
+    }
+.site-header__menu-icon{
+    width: 20px;
+    height: 19px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 20;
+  }
+.site-header__menu-icon__middle{
+      content: "";
+      position: absolute;
+      top: 8px;
+      left: 0;
+      width: 20px;
+      height: 3px;;
+      background-color: #fff;
+      transition: all 0.3s ease-out;
+    }
+.site-header__menu-icon::before{
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 20px;
+      height: 3px;;
+      background-color: #fff;  
+      -webkit-transform-origin: 0 0;  
+              transform-origin: 0 0;
+      transition: all 0.3s ease-out;
+    }
+.site-header__menu-icon::after{
+      content: "";
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 20px;
+      height: 3px;;
+      background-color: #fff;  
+      -webkit-transform-origin: 0 100%;  
+              transform-origin: 0 100%;
+      transition: all 0.3s ease-out;
+    }
+@media(min-width:800px){
+.site-header__menu-icon{
+      display: none
+  }
+   }
+.site-header__menu-icon--close-x .site-header__menu-icon__middle{
+      -webkit-transform: scaleX(0);
+              transform: scaleX(0);
+      opacity: 0;
+      
+    }
+.site-header__menu-icon--close-x::before{
+      -webkit-transform: rotate(45deg) scaleX(1.2);
+              transform: rotate(45deg) scaleX(1.2);
+    }
+.site-header__menu-icon--close-x::after{
+      -webkit-transform: rotate(-45deg) scaleX(1.2);
+              transform: rotate(-45deg) scaleX(1.2);
+    }
+.site-header__menu-content{
+    opacity: 0;
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+    transition: all 0.3s ease-out;
+    z-index: -10;
+    position: relative;
+  }
+@media(min-width:800px){
+.site-header__menu-content{
+      -webkit-transform: scale(1);
+              transform: scale(1);
+      opacity: 1;
+      z-index: 1;
+      padding-top: 0
+  }
+   }
+.site-header__menu-content--is-visible{
+      -webkit-transform: scale(1);
+              transform: scale(1);
+      opacity: 1;
+      z-index: 1;
+    }
+.primary-nav{
+  
+  padding-top: 10px;
+}
+@media(min-width:800px){
+.primary-nav{
+    padding-top: 0
+}
+   }
+@media(min-width:800px){
+    .primary-nav--pull-right{
+      float: right;
+    }
+   }
+.primary-nav ul{
+    margin: 0;
+    padding: 0;
+  }
+.primary-nav ul::after{
+   content: "";
+   clear: both;
+   display: table;
+  }
+.primary-nav li{
+    list-style: none;
+   /* float: left; */
+    padding-right: 7px;
+    display: inline-block;
+  }
+@media(min-width:800px){
+.primary-nav li{
+      padding-right: 20px;
+      float: left;
+      padding-left: 0;
+      display: block
+  }
+   }
+.primary-nav li:last-child{
+    padding-left: 0px;
+    margin-top: 10px;
+  }
+@media(min-width:800px){
+.primary-nav li:last-child{
+      padding-right: 20px;
+      margin-top: 0px
+  }
+   }
+.primary-nav a{
+      color: #b639;
+      font-weight: 400;
+      text-decoration: none;
+      text-shadow: 1px 1px 2px rgba(255,255,255,0.9);
+      display: block;
+      padding: 5px 8px;
+      font-size: 1.2rem;
+      background-color: rgba(37,153,185, 0.5);
+    }
+@media(min-width:800px){
+.primary-nav a{
+        font-size: 1rem;
+        padding: 12px 0;
+        background-color: transparent
+    }
    } 
 
