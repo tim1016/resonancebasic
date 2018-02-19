@@ -3,14 +3,15 @@
   width: 100%;
   z-index: 2;
   padding: 10px 0;
-  transition: background-color 0.3s ease-out;  
+ 
   
   @mixin atMedium{
     background: $headerColor; 
   }
   
   &--is-expanded{
-    background-color: $headerColor;
+/*    background-color: $headerColor; */ 
+ /*   transition: background-color 0.3s ease-out; */
   }
   
   &__btn-container{
@@ -31,7 +32,7 @@
       left: auto;
       top: 0;
       transform: translateX(0%) scaleY(1);
-      background-color: $iconBackground;
+      /*background-color: $iconBackground;*/
       padding: 0px 0px;
     }
     
@@ -117,7 +118,6 @@
     transform: scale(1.2);
     padding-top: 50px;
     text-align: center;
-    color: white;
     transition: all 0.3s ease-out;
     z-index: -10;
     position: relative;
