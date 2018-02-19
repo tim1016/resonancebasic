@@ -6,7 +6,12 @@
  
   
   @mixin atMedium{
+    position: fixed;
     background-color: $headerColor; 
+    
+    &--dark{
+      background-color: $darkBlue;
+    }
   }
   
   &--is-expanded{
@@ -27,6 +32,7 @@
     transform-origin: 50% 0%;
     background-color: $iconBackground;
     padding: 0px 0px;
+    transition: transform 0.3s ease-out;
     
     
     @mixin atMedium{
@@ -35,6 +41,10 @@
       top: 0;
       transform: translateX(0%) scaleY(1);
       padding: 0px 0px;
+      
+      .site-header--dark &{
+        transform: scale(0.82);
+      }
     }
     
     
