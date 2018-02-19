@@ -285,7 +285,7 @@ img{
   box-sizing: border-box;
 }
 a{
-  color: #b639;
+  color: #b63d39;
 }
 .large-hero{
   position: relative;
@@ -355,7 +355,7 @@ a{
   box-shadow: 2px 2px 0 rgba(0,0,0,0.8);
 }
 .btn--color2{
-    background-color: #b639;
+    background-color: #b63d39;
   }
 .btn--large{
     padding: 1.1rem 1.9rem;
@@ -467,7 +467,7 @@ a{
     text-align: center;
   }
 .headline--color2{
-    color: #b639;
+    color: #b63d39;
   }
 .headline--small{
     font-size: 1.2rem;
@@ -830,7 +830,7 @@ Instead edit gulp/templates/sprite */
     margin: 0;
   }
 .testimonial__subtitle{
-    color: #b639;
+    color: #b63d39;
     text-align: center;
     font-size: 0.9125rem;
     font-weight: 400; 
@@ -1036,7 +1036,7 @@ Instead edit gulp/templates/sprite */
   }
    }
 .primary-nav a{
-      color: #b639;
+      color: #b63d39;
       font-weight: 400;
       text-decoration: none;
       display: block;
