@@ -3,14 +3,13 @@
   width: 100%;
   z-index: 2;
   padding: 10px 0;
-  transition: background-color 0.3s ease-out;  
+ 
   
   @mixin atMedium{
     background-color: $headerColor; 
   }
   
   &--is-expanded{
-    background-color: $headerColor;
   }
   
   &__btn-container{
@@ -33,6 +32,9 @@
     @mixin atMedium{
       left: auto;
       transform: translateX(0%) scaleY(1); 
+      top: 0;
+      transform: translateX(0%) scaleY(1);
+      padding: 0px 0px;
     }
     
     
