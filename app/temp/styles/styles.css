@@ -949,7 +949,7 @@ Instead edit gulp/templates/sprite */
 .site-header__menu-icon--close-x .site-header__menu-icon__middle{
       -webkit-transform: scaleX(0);
               transform: scaleX(0);
-      opacity: 0;
+      opacity: 0; 
     }
 .site-header__menu-icon--close-x::after{
       -webkit-transform: rotate(-45deg) scaleX(1.2);
