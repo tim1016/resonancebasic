@@ -6,7 +6,7 @@
   transition: background-color 0.3s ease-out;  
   
   @mixin atMedium{
-    background: $headerColor; 
+    background-color: $headerColor; 
   }
   
   &--is-expanded{
@@ -22,17 +22,17 @@
   
   &__logo{
     position: absolute;
+    top: 0;
     left: 50%;
     transform: translateX(-50%) scale(0.6);
     transform-origin: 50% 0%;
+    background-color: $iconBackground;
+    padding: 0px 0px;
     
     
     @mixin atMedium{
       left: auto;
-      top: 0;
-      transform: translateX(0%) scaleY(1);
-      background-color: $iconBackground;
-      padding: 0px 0px;
+      transform: translateX(0%) scaleY(1); 
     }
     
     
@@ -95,17 +95,16 @@
   
   
   &__menu-icon--close-x{
-
-    .site-header__menu-icon__middle{
-      transform: scaleX(0);
-      opacity: 0;
-      
-    }
-    
-    
     &::before{
       transform: rotate(45deg) scaleX(1.2);
     }
+    
+    .site-header__menu-icon__middle{
+      transform: scaleX(0);
+      opacity: 0; 
+    }
+    
+
     &::after{
       transform: rotate(-45deg) scaleX(1.2);
     }
@@ -115,9 +114,7 @@
   &__menu-content{
     opacity: 0;
     transform: scale(1.2);
-    padding-top: 50px;
     text-align: center;
-    color: white;
     transition: all 0.3s ease-out;
     z-index: -10;
     position: relative;
