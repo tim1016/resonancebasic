@@ -2,85 +2,97 @@
 Instead edit gulp/templates/sprite */
 
     .icon {
-      background-image: url('/assets/images/sprites/sprite-ad0a36fa.svg');
+      background-image: url('/assets/images/sprites/sprite-ac0ff245.svg');
     }
 
   .icon--alarmclock {
     width: 50px;
     height: 50px;
-    background-position: 100% 82.45614035087719%;
+    background-position: 11.11111111111111% 85.07462686567165%;
   }
 
   .icon--badtenant {
     width: 50px;
     height: 50px;
-    background-position: 77.77777777777777% 82.45614035087719%;
+    background-position: 100% 70.14925373134328%;
   }
 
   .icon--burden {
     width: 50px;
     height: 50px;
-    background-position: 33.333333333333336% 100%;
+    background-position: 55.55555555555556% 85.07462686567165%;
   }
 
   .icon--business-down-bars-graphic {
     width: 50px;
     height: 50px;
-    background-position: 91.11111111111111% 56.14035087719298%;
+    background-position: 91.11111111111111% 47.76119402985075%;
   }
 
   .icon--closing {
     width: 50px;
     height: 50px;
-    background-position: 0 82.45614035087719%;
+    background-position: 0 70.14925373134328%;
   }
 
   .icon--codeviolations {
     width: 50px;
     height: 50px;
-    background-position: 11.11111111111111% 82.45614035087719%;
+    background-position: 11.11111111111111% 70.14925373134328%;
   }
 
   .icon--doublepayments {
     width: 50px;
     height: 50px;
-    background-position: 22.22222222222222% 82.45614035087719%;
+    background-position: 22.22222222222222% 70.14925373134328%;
+  }
+
+  .icon--facebook {
+    width: 50px;
+    height: 50px;
+    background-position: 33.333333333333336% 70.14925373134328%;
   }
 
   .icon--for-rent {
     width: 50px;
     height: 50px;
-    background-position: 33.333333333333336% 82.45614035087719%;
+    background-position: 44.44444444444444% 70.14925373134328%;
   }
 
   .icon--givemoney {
     width: 50px;
     height: 50px;
-    background-position: 44.44444444444444% 82.45614035087719%;
+    background-position: 55.55555555555556% 70.14925373134328%;
   }
 
   .icon--goingdown {
     width: 50px;
     height: 50px;
-    background-position: 55.55555555555556% 82.45614035087719%;
+    background-position: 66.66666666666667% 70.14925373134328%;
   }
 
   .icon--hammer {
     width: 50px;
     height: 50px;
-    background-position: 66.66666666666667% 82.45614035087719%;
+    background-position: 77.77777777777777% 70.14925373134328%;
   }
 
   .icon--housesale {
     width: 50px;
     height: 50px;
-    background-position: 80% 56.14035087719298%;
+    background-position: 88.88888888888889% 70.14925373134328%;
+  }
+
+  .icon--instagram {
+    width: 50px;
+    height: 50px;
+    background-position: 80% 47.76119402985075%;
   }
 
   .icon--listed {
     width: 50px;
     height: 50px;
-    background-position: 88.88888888888889% 82.45614035087719%;
+    background-position: 0 85.07462686567165%;
   }
 
   .icon--logotrial {
@@ -92,53 +104,59 @@ Instead edit gulp/templates/sprite */
   .icon--moving {
     width: 50px;
     height: 50px;
-    background-position: 0 100%;
+    background-position: 22.22222222222222% 85.07462686567165%;
   }
 
   .icon--phonecall {
     width: 50px;
     height: 50px;
-    background-position: 11.11111111111111% 100%;
+    background-position: 33.333333333333336% 85.07462686567165%;
   }
 
   .icon--piggy-bank {
     width: 50px;
     height: 50px;
-    background-position: 22.22222222222222% 100%;
+    background-position: 44.44444444444444% 85.07462686567165%;
   }
 
   .icon--resonance {
     width: 360px;
     height: 75px;
-    background-position: 0 61.53846153846154%;
+    background-position: 0 51.61290322580645%;
   }
 
   .icon--tax {
     width: 50px;
     height: 50px;
-    background-position: 44.44444444444444% 100%;
+    background-position: 66.66666666666667% 85.07462686567165%;
   }
 
   .icon--team {
     width: 50px;
     height: 50px;
-    background-position: 55.55555555555556% 100%;
+    background-position: 77.77777777777777% 85.07462686567165%;
   }
 
   .icon--testimonial {
     width: 50px;
     height: 50px;
-    background-position: 66.66666666666667% 100%;
+    background-position: 88.88888888888889% 85.07462686567165%;
   }
 
   .icon--tools {
     width: 50px;
     height: 50px;
-    background-position: 77.77777777777777% 100%;
+    background-position: 100% 85.07462686567165%;
+  }
+
+  .icon--twitter {
+    width: 50px;
+    height: 50px;
+    background-position: 0 100%;
   }
 
   .icon--unwanted {
     width: 50px;
     height: 50px;
-    background-position: 88.88888888888889% 100%;
+    background-position: 11.11111111111111% 100%;
   }

@@ -9,6 +9,11 @@
     max-width: 976px;
   }
   
+  &--medium{
+    max-width: 470px;
+    margin-bottom: 1.3rem;
+  }
+  
   .wrapper{
     padding: 0;
   }
