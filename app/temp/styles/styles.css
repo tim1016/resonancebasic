@@ -427,15 +427,17 @@ a{
     background: #e0e6ef;
   }
 @media(min-width:1010px){
-.page-section--testimonials{
-      background: 
-      linear-gradient(
-      rgba(255, 255, 2525, 0.1), 
-      rgba(255, 255, 255, 0.1)
-      ),
-      url(/assets/images/testimonials-bg.jpg) top center no-repeat;
-      background-size: cover
-  }
+      .page-section--testimonials.lazyloaded{
+        
+        background: 
+        linear-gradient(
+        rgba(255, 255, 2525, 0.1), 
+        rgba(255, 255, 255, 0.1)
+        ),
+        url(/assets/images/testimonials-bg.jpg) top center no-repeat;
+        background-size: cover;
+
+      }
    }
 .page-section--no-b-padding-until-medium{
     padding-bottom: 0;

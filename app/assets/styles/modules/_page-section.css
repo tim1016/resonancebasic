@@ -14,14 +14,17 @@
     background: #e0e6ef;
     
     @mixin atLarge{
-      background: 
-      linear-gradient(
-      rgba(255, 255, 2525, 0.1), 
-      rgba(255, 255, 255, 0.1)
-      ),
-      url(/assets/images/testimonials-bg.jpg) top center no-repeat;
-      background-size: cover;
+      &.lazyloaded{
+        
+        background: 
+        linear-gradient(
+        rgba(255, 255, 2525, 0.1), 
+        rgba(255, 255, 255, 0.1)
+        ),
+        url(/assets/images/testimonials-bg.jpg) top center no-repeat;
+        background-size: cover;
 
+      }
     }
   }
   
