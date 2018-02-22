@@ -434,7 +434,7 @@ a{
         rgba(255, 255, 2525, 0.1), 
         rgba(255, 255, 255, 0.1)
         ),
-        url(/assets/images/testimonials-bg.jpg) top center no-repeat;
+        url(../../assets/images/testimonials-bg.jpg) top center no-repeat;
         background-size: cover;
 
       }
@@ -691,135 +691,135 @@ a{
 /* Do not edit modules/_sprite directly as it is generated automatically by Gulp.
 Instead edit gulp/templates/sprite */
 .icon {
-      background-image: url('/assets/images/sprites/sprite-7c44b4e0.svg');
+      background-image: url('../../assets/images/sprites/sprite-317f4cc3.svg');
     }
 .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-7c44b4e0.png');
+      background-image: url('../../assets/images/sprites/sprite-317f4cc3.png');
    }
 .icon--alarmclock {
-    width: 50px;
-    height: 50px;
-    background-position: 48.38709677419355% 77.77777777777777%;
+    width: 52px;
+    height: 52px;
+    background-position: 83.87096774193549% 77.6824034334764%;
   }
 .icon--badtenant {
-    width: 50px;
-    height: 50px;
-    background-position: 64.51612903225806% 55.55555555555556%;
+    width: 52px;
+    height: 52px;
+    background-position: 83.87096774193549% 55.36480686695279%;
   }
 .icon--burden {
-    width: 50px;
-    height: 50px;
-    background-position: 16.129032258064516% 33.333333333333336%;
+    width: 52px;
+    height: 52px;
+    background-position: 16.774193548387096% 33.047210300429185%;
   }
 .icon--business-down-bars-graphic {
-    width: 50px;
-    height: 50px;
-    background-position: 32.25806451612903% 33.333333333333336%;
+    width: 52px;
+    height: 52px;
+    background-position: 33.54838709677419% 33.047210300429185%;
   }
 .icon--closing {
-    width: 50px;
-    height: 50px;
-    background-position: 48.38709677419355% 33.333333333333336%;
+    width: 52px;
+    height: 52px;
+    background-position: 50.32258064516129% 33.047210300429185%;
   }
 .icon--codeviolations {
-    width: 50px;
-    height: 50px;
-    background-position: 64.51612903225806% 33.333333333333336%;
+    width: 52px;
+    height: 52px;
+    background-position: 67.09677419354838% 33.047210300429185%;
   }
 .icon--doublepayments {
-    width: 50px;
-    height: 50px;
-    background-position: 80.64516129032258% 33.333333333333336%;
+    width: 52px;
+    height: 52px;
+    background-position: 83.87096774193549% 33.047210300429185%;
   }
 .icon--facebook {
-    width: 50px;
-    height: 50px;
-    background-position: 96.7741935483871% 33.333333333333336%;
+    width: 52px;
+    height: 52px;
+    background-position: 0 55.36480686695279%;
   }
 .icon--for-rent {
-    width: 50px;
-    height: 50px;
-    background-position: 0 55.55555555555556%;
+    width: 52px;
+    height: 52px;
+    background-position: 16.774193548387096% 55.36480686695279%;
   }
 .icon--givemoney {
-    width: 50px;
-    height: 50px;
-    background-position: 16.129032258064516% 55.55555555555556%;
+    width: 52px;
+    height: 52px;
+    background-position: 33.54838709677419% 55.36480686695279%;
   }
 .icon--goingdown {
-    width: 50px;
-    height: 50px;
-    background-position: 32.25806451612903% 55.55555555555556%;
+    width: 52px;
+    height: 52px;
+    background-position: 50.32258064516129% 55.36480686695279%;
   }
 .icon--hammer {
-    width: 50px;
-    height: 50px;
-    background-position: 48.38709677419355% 55.55555555555556%;
+    width: 52px;
+    height: 52px;
+    background-position: 67.09677419354838% 55.36480686695279%;
   }
 .icon--housesale {
-    width: 50px;
-    height: 50px;
-    background-position: 0 33.333333333333336%;
+    width: 52px;
+    height: 52px;
+    background-position: 0 33.047210300429185%;
   }
 .icon--instagram {
-    width: 50px;
-    height: 50px;
-    background-position: 80.64516129032258% 55.55555555555556%;
+    width: 52px;
+    height: 52px;
+    background-position: 0 77.6824034334764%;
   }
 .icon--listed {
-    width: 50px;
-    height: 50px;
-    background-position: 96.7741935483871% 55.55555555555556%;
+    width: 52px;
+    height: 52px;
+    background-position: 16.774193548387096% 77.6824034334764%;
   }
 .icon--moving {
-    width: 50px;
-    height: 50px;
-    background-position: 0 77.77777777777777%;
+    width: 52px;
+    height: 52px;
+    background-position: 33.54838709677419% 77.6824034334764%;
   }
 .icon--phonecall {
-    width: 50px;
-    height: 50px;
-    background-position: 16.129032258064516% 77.77777777777777%;
+    width: 52px;
+    height: 52px;
+    background-position: 50.32258064516129% 77.6824034334764%;
   }
 .icon--piggy-bank {
-    width: 50px;
-    height: 50px;
-    background-position: 32.25806451612903% 77.77777777777777%;
+    width: 52px;
+    height: 52px;
+    background-position: 67.09677419354838% 77.6824034334764%;
   }
 .icon--resonance {
-    width: 360px;
-    height: 75px;
+    width: 362px;
+    height: 77px;
     background-position: 0 0;
   }
 .icon--tax {
-    width: 50px;
-    height: 50px;
-    background-position: 64.51612903225806% 77.77777777777777%;
-  }
-.icon--team {
-    width: 50px;
-    height: 50px;
-    background-position: 80.64516129032258% 77.77777777777777%;
-  }
-.icon--testimonial {
-    width: 50px;
-    height: 50px;
-    background-position: 96.7741935483871% 77.77777777777777%;
-  }
-.icon--tools {
-    width: 50px;
-    height: 50px;
+    width: 52px;
+    height: 52px;
     background-position: 0 100%;
   }
+.icon--team {
+    width: 52px;
+    height: 52px;
+    background-position: 16.774193548387096% 100%;
+  }
+.icon--testimonial {
+    width: 52px;
+    height: 52px;
+    background-position: 33.54838709677419% 100%;
+  }
+.icon--tools {
+    width: 52px;
+    height: 52px;
+    background-position: 50.32258064516129% 100%;
+  }
 .icon--twitter {
-    width: 50px;
-    height: 50px;
-    background-position: 16.129032258064516% 100%;
+    width: 52px;
+    height: 52px;
+    background-position: 67.09677419354838% 100%;
   }
 .icon--unwanted {
-    width: 50px;
-    height: 50px;
-    background-position: 32.25806451612903% 100%;
+    width: 52px;
+    height: 52px;
+    background-position: 83.87096774193549% 100%;
   }
 .testimonial{
   background-color: rgba(255,255,255,0.8);
