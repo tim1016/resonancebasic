@@ -580,20 +580,20 @@ a{
    }
 /* Begin Equal Height column rules  */
 @media(min-width:800px){
-.row--equal-height-at-medium{
+.flexbox .row--equal-height-at-medium{
       display: flex
   }
    }
-.row--equal-height-at-medium > div{
+.flexbox .row--equal-height-at-medium > div{
       float: none;
       display: flex;
     }
 @media(min-width:1010px){
-.row--equal-height-at-large{
+.flexbox .row--equal-height-at-large{
       display: flex
   }
    }
-.row--equal-height-at-large > div{
+.flexbox .row--equal-height-at-large > div{
       float: none;
       display: flex;
     }
@@ -691,137 +691,135 @@ a{
 /* Do not edit modules/_sprite directly as it is generated automatically by Gulp.
 Instead edit gulp/templates/sprite */
 .icon {
-      background-image: url('/assets/images/sprites/sprite-ac0ff245.svg');
+      background-image: url('/assets/images/sprites/sprite-7c44b4e0.svg');
     }
+.no-svg .icon {
+      background-image: url('/assets/images/sprites/sprite-7c44b4e0.png');
+   }
 .icon--alarmclock {
     width: 50px;
     height: 50px;
-    background-position: 11.11111111111111% 85.07462686567165%;
+    background-position: 48.38709677419355% 77.77777777777777%;
   }
 .icon--badtenant {
     width: 50px;
     height: 50px;
-    background-position: 100% 70.14925373134328%;
+    background-position: 64.51612903225806% 55.55555555555556%;
   }
 .icon--burden {
     width: 50px;
     height: 50px;
-    background-position: 55.55555555555556% 85.07462686567165%;
+    background-position: 16.129032258064516% 33.333333333333336%;
   }
 .icon--business-down-bars-graphic {
     width: 50px;
     height: 50px;
-    background-position: 91.11111111111111% 47.76119402985075%;
+    background-position: 32.25806451612903% 33.333333333333336%;
   }
 .icon--closing {
     width: 50px;
     height: 50px;
-    background-position: 0 70.14925373134328%;
+    background-position: 48.38709677419355% 33.333333333333336%;
   }
 .icon--codeviolations {
     width: 50px;
     height: 50px;
-    background-position: 11.11111111111111% 70.14925373134328%;
+    background-position: 64.51612903225806% 33.333333333333336%;
   }
 .icon--doublepayments {
     width: 50px;
     height: 50px;
-    background-position: 22.22222222222222% 70.14925373134328%;
+    background-position: 80.64516129032258% 33.333333333333336%;
   }
 .icon--facebook {
     width: 50px;
     height: 50px;
-    background-position: 33.333333333333336% 70.14925373134328%;
+    background-position: 96.7741935483871% 33.333333333333336%;
   }
 .icon--for-rent {
     width: 50px;
     height: 50px;
-    background-position: 44.44444444444444% 70.14925373134328%;
+    background-position: 0 55.55555555555556%;
   }
 .icon--givemoney {
     width: 50px;
     height: 50px;
-    background-position: 55.55555555555556% 70.14925373134328%;
+    background-position: 16.129032258064516% 55.55555555555556%;
   }
 .icon--goingdown {
     width: 50px;
     height: 50px;
-    background-position: 66.66666666666667% 70.14925373134328%;
+    background-position: 32.25806451612903% 55.55555555555556%;
   }
 .icon--hammer {
     width: 50px;
     height: 50px;
-    background-position: 77.77777777777777% 70.14925373134328%;
+    background-position: 48.38709677419355% 55.55555555555556%;
   }
 .icon--housesale {
     width: 50px;
     height: 50px;
-    background-position: 88.88888888888889% 70.14925373134328%;
+    background-position: 0 33.333333333333336%;
   }
 .icon--instagram {
     width: 50px;
     height: 50px;
-    background-position: 80% 47.76119402985075%;
+    background-position: 80.64516129032258% 55.55555555555556%;
   }
 .icon--listed {
     width: 50px;
     height: 50px;
-    background-position: 0 85.07462686567165%;
-  }
-.icon--logotrial {
-    width: 500px;
-    height: 160px;
-    background-position: 0 0;
+    background-position: 96.7741935483871% 55.55555555555556%;
   }
 .icon--moving {
     width: 50px;
     height: 50px;
-    background-position: 22.22222222222222% 85.07462686567165%;
+    background-position: 0 77.77777777777777%;
   }
 .icon--phonecall {
     width: 50px;
     height: 50px;
-    background-position: 33.333333333333336% 85.07462686567165%;
+    background-position: 16.129032258064516% 77.77777777777777%;
   }
 .icon--piggy-bank {
     width: 50px;
     height: 50px;
-    background-position: 44.44444444444444% 85.07462686567165%;
+    background-position: 32.25806451612903% 77.77777777777777%;
   }
 .icon--resonance {
     width: 360px;
     height: 75px;
-    background-position: 0 51.61290322580645%;
+    background-position: 0 0;
   }
 .icon--tax {
     width: 50px;
     height: 50px;
-    background-position: 66.66666666666667% 85.07462686567165%;
+    background-position: 64.51612903225806% 77.77777777777777%;
   }
 .icon--team {
     width: 50px;
     height: 50px;
-    background-position: 77.77777777777777% 85.07462686567165%;
+    background-position: 80.64516129032258% 77.77777777777777%;
   }
 .icon--testimonial {
     width: 50px;
     height: 50px;
-    background-position: 88.88888888888889% 85.07462686567165%;
+    background-position: 96.7741935483871% 77.77777777777777%;
   }
 .icon--tools {
     width: 50px;
     height: 50px;
-    background-position: 100% 85.07462686567165%;
+    background-position: 0 100%;
   }
 .icon--twitter {
     width: 50px;
     height: 50px;
-    background-position: 0 100%;
+    background-position: 16.129032258064516% 100%;
   }
 .icon--unwanted {
     width: 50px;
     height: 50px;
-    background-position: 11.11111111111111% 100%;
+    background-position: 32.25806451612903% 100%;
   }
 .testimonial{
   background-color: rgba(255,255,255,0.8);

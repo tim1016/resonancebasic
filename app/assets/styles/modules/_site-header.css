@@ -12,7 +12,7 @@
     &--dark{
       background-color: $darkBlue;
     }
-  }
+  } 
   
   &--is-expanded{
   }
